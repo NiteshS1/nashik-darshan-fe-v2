@@ -33,6 +33,11 @@ migrate_working_dir/
 .pub/
 /build/
 
+# Cursor IDE specific
+.cursor/
+.cursor.config.json
+.cursor.ai.config.json
+
 # Symbolication related
 app.*.symbols
 
